@@ -11,8 +11,6 @@
 ![my_banner](https://github.com/user-attachments/assets/0f625237-4c5b-4f54-aeb9-5621cd57d6de)
 <div align=center>
         <a href="https://www.linkedin.com/in/augustomartosaragon/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="mailto:augustomartos7@mi.unc.edu.ar">
-    <img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail&logoColor=D14836" alt="Gmail" /></a>
 
 </div>
 
